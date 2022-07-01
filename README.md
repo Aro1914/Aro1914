@@ -14,7 +14,7 @@ I love working on backend projects involving business logic, and creating APIs, 
 
 Here's the link to [my LinkedIn Profile](https://www.linkedin.com/in/emmanuel-agbavwe-a99671184/).  
 My WhatsApp contact lines: +2349066194736, +2349019975577  
-Feel free to reach out to me with any offer or to make enquiries.🤗
+Feel free to reach out to me with any offer.🤗
 
 <!--
 **Aro1914/Aro1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
