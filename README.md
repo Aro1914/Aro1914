@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Emmanuel (He, Him, His), a Full Stack Developer with 3 years of experience in software development.  
+I'm Emmanuel (He, Him), an experienced Full Stack Developer with three years of professional history.  
 
-I have gained significant experience in JavaScript, React.js, and Flask.  
+My active development languages and frameworks are JavaScript, Python, React.js, and Flask.  
 
 I am very passionate about my profession, and as a quick study, I enjoy learning new skills to improve myself in my career path.  
 
-With that said, I'm currently learning Python professionally for Backend development using Flask, SQLAlchemy, and Postgres Database through an ALX-T sponsored Full Stack Development Nanodegree scholarship on Udacity.🙂  
+With that said, I'm currently learning how to build smart contracts and develop applications of the blockchain in different areas of software development in Web3 using [Reach](https://docs.reach.sh/).🙂  
 
 I love working on backend projects involving business logic, and creating APIs, therefore I am looking to collaborate on any project that fall into that category, although I'm open to frontend projects too.😇 
 
