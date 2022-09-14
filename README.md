@@ -21,13 +21,9 @@ I'm a motivated quick learner and team-oriented Full Stack Web3 Developer focuse
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aro1914&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aro1914&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
-## 💰 You can support me by Donating
+## 💰 Buy me a coffee or send a tip
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/agbavweisaac) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LoneHustler1914) 
 
