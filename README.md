@@ -7,9 +7,9 @@ I'm a motivated quick learner and team-oriented Full Stack Web3 Developer focuse
 🔭 I'm currently working on a Web3 project called the [Reach DAO](https://github.com/Apostrophe-Corp/Reach-DAO)<br>👯 I'm looking forward to collaborating on Web3 and open-source projects<br>🤝 I'm looking for help with finding a full-time remote offer<br>🌱 I'm currently learning DApp development using [Reach](https://docs.reach.sh/)<br>💬 Ask me about Web3 development and related technologies<br>⚡ Fun fact: I'm not a fan of enclosing curly braces
 
 
-### 💬 Socials
+### 💬 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-agbavwe-full-stack-developer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/agbavwe_isaac) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-agbavwe-full-stack-developer)  
 
 ## 🧑‍💻 My Tech Stack
 
