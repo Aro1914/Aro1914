@@ -24,9 +24,7 @@ I'm a self-motivated quick learner and team-oriented Full Stack Web3 Developer f
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Aro1914&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aro1914&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aro1914&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
