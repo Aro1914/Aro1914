@@ -9,7 +9,7 @@ A self-motivated quick learner and team-oriented Full Stack Web3 Developer focus
 
 ### 💬 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-agbavwe-full-stack-developer)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-agbavwe)  
 
 ## 🧑‍💻 Tech Stack
 
