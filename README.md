@@ -44,19 +44,21 @@ Tooling       REST APIs · Jest · Node.js · Agile/Remote Collaboration
 | **ChainBois** | Frontend Team Lead — Web3 platform | 🔒 Private |
 | **ChainBois Token Page** | Frontend Team Lead — token page | 🔒 Private |
 | **Crazy Embryo Club** | Web3 platform | [Live Link](https://www.crazyembryo.club) |
-| **Ghetto Market** | Marketplace platform (Next.js, lazy-loaded media) | [Live Link](https://market.ghettopigeon.com) |
+| **Ghetto Market** | Marketplace platform | [Live Link](https://market.ghettopigeon.com) |
 | **Ghetto Warzones** | Web3 platform | [Live Link](https://warzones.ghettopigeon.com) |
 | **Ghetto Pigeon Website** | Vercel redeployment | [Live Link](https://ghettopigeon.com) |
-| **Pigeon Puffs** | [Live Link](https://puffs.ghettopigeon.com) | 🔒 Private |
+| **Pigeon Puffs** | Web3 platform | [Live Link](https://puffs.ghettopigeon.com) |
 | **ViewReward** | Learn-to-earn platform with token verification | [Live Link](https://viewreward.app) |
 
 **Personal Projects**
 
 | Project | Description | Access |
 |---|---|---|
-| `ATMachine` | Console-based ATM simulation (Java) | ✅ Public — see pinned repos |
-| `AroShop` | Console-based shopping app (Java) | ✅ Public — see pinned repos |
-| Inventory App | Stock management system (Python) | ✅ Public — see pinned repos |
+| `ATMachine` | Console-based ATM simulation (Java) | ✅ Public |
+| `AroShop` | Console-based shopping app (Java) | ✅ Public |
+| Inventory App | Stock management system (Python) | ✅ Public |
+
+*A few other personal projects are pinned to my profile, while a few more are lurking somewhere in my repository list — feel free to poke around.*
 
 ### 💬 Let's Talk
 
