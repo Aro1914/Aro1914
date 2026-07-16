@@ -1,7 +1,54 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/thecokerdavid/thecokerdavid/main/gifs/wave.gif" width="25px" height = "25px"></h1>
+<div align="center">
 
-## 😇 About Me
+# Hey, I'm Emmanuel 👋
 
-A self-motivated quick learner and team-oriented Web3 Developer focused on making new applications of technologies accessible and relevant to end users.
+### Frontend Developer · React/Next.js Specialist · Web3 Integrator
 
-🔭 Just completed work on a Web3 project called [Ghetto Market](https://market.ghettopigeon.com)<br>👯 Looking forward to collaborating on Web3 and open-source projects<br>💬 Ask me about Web3 development and related technologies<br>⚡ Fun fact: Not a fan of enclosing curly braces
+I build fast, scalable web applications — and bridge them with blockchain
+when the project calls for it.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/emmanuel-agbavwe-dev)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail)](mailto:emmagbavwe@gmail.com)
+
+</div>
+
+---
+
+### 🧭 What I Do
+
+4+ years building production web apps with **React.js**, **Next.js**, **JavaScript**,
+and **TypeScript** — with a specialty in integrating blockchain/Web3 functionality
+into everyday user experiences. I've worked across freelance, startup, and remote
+team environments, usually as the developer trusted to take a design and ship it
+as a real, working product.
+
+### 🛠️ Tech I Work With
+
+```
+Frontend      React.js · Next.js · TypeScript · JavaScript
+Web3          Smart Contract Integration · dApp Development
+Tooling       REST APIs · Jest · Node.js · Agile/Remote Collaboration
+```
+
+### 🚀 Selected Work
+
+> Most client work lives in private repositories under NDA — noted below where
+> that applies. Full details and context available on my CV/LinkedIn.
+
+| Project | Description | Access |
+|---|---|---|
+| **BigBallz** | Frontend Team Lead — Web3 platform | [Live Link](https://ballz.ghettopigeon.com) |
+| **ChainBois** | Frontend Team Lead — Web3 platform + token page | 🔒 Private |
+| **Ghetto Market** | Marketplace platform (Next.js, lazy-loaded media) | [Live Link](https://market.ghettopigeon.com) |
+| **ViewReward** | Learn-to-earn platform with token verification | [Live Link](https://viewreward.app) |
+| `ATMachine` | Console-based ATM simulation (Java) | ✅ Public — see pinned repos |
+| `AroShop` | Console-based shopping app (Java) | ✅ Public — see pinned repos |
+| Inventory App | Stock management system (Python) | ✅ Public — see pinned repos |
+
+### 💬 Let's Talk
+
+Open to frontend and Web3 collaboration opportunities. Ask me about React,
+Next.js architecture, or smart contract integration — happy to nerd out.
+
+*Fun fact: I'm not a fan of enclosing curly braces.*
