@@ -76,7 +76,7 @@ Workflow      Git/GitHub · Figma · Firebase · Node.js · REST API Integration
 | **BigBallz** | Meme coin website, shipped as a PWA. Front-end team lead. | 🌐 [Live](https://ballz.ghettopigeon.com) |
 | **ChainBois** | NFT project website. Front-end team lead. | 🔒 Private |
 | **ChainBois Token Page** | Token page. Front-end team lead. | 🔒 Private |
-| **Crazy Embryo Club** | Web3 gamified community platform, with custom animations and a smart collection lookup. | 🌐 [Live](https://www.crazyembryo.club) |
+| **Crazy Embryo Club** | Web3 gamified community platform, with custom animations and a smart collection lookup. | 🌐 [Live](https://crazy-embryo-club-alpha.vercel.app) |
 | **Ghetto Market** | Marketplace platform with a multi-step NFT shuffle setup and search-and-preview. | 🌐 [Live](https://market.ghettopigeon.com) |
 | **Ghetto Warzones** | Web3 platform. | 🌐 [Live](https://warzones.ghettopigeon.com) |
 | **Ghetto Pigeon Website** | Vercel redeployment. | 🌐 [Live](https://ghettopigeon.com) |
