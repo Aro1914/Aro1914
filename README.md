@@ -40,15 +40,16 @@ Tooling       REST APIs · Jest · Node.js · Agile/Remote Collaboration
 
 | Project | Description | Access |
 |---|---|---|
-| **BigBallz** | Frontend Team Lead — Web3 platform | [Live Link](https://ballz.ghettopigeon.com) |
-| **ChainBois** | Frontend Team Lead — Web3 platform | 🔒 Private |
+| **BigBallz** | Frontend Team Lead — Meme coin website | [Live Link](https://ballz.ghettopigeon.com) |
+| **ChainBois** | Frontend Team Lead — NFT project website | 🔒 Private |
 | **ChainBois Token Page** | Frontend Team Lead — token page | 🔒 Private |
-| **Crazy Embryo Club** | Web3 platform | [Live Link](https://www.crazyembryo.club) |
+| **Crazy Embryo Club** | Web3 gamified community platform | [Live Link](https://www.crazyembryo.club) |
 | **Ghetto Market** | Marketplace platform | [Live Link](https://market.ghettopigeon.com) |
 | **Ghetto Warzones** | Web3 platform | [Live Link](https://warzones.ghettopigeon.com) |
 | **Ghetto Pigeon Website** | Vercel redeployment | [Live Link](https://ghettopigeon.com) |
-| **Pigeon Puffs** | Web3 platform | [Live Link](https://puffs.ghettopigeon.com) |
+| **Pigeon Puffs** | Web3 game-portal platform | [Live Link](https://puffs.ghettopigeon.com) |
 | **ViewReward** | Learn-to-earn platform with token verification | [Live Link](https://viewreward.app) |
+| **Redeemify** | Redeem physical items with NFTs| [Live Link](https://redeemify.app) |
 
 **Personal Projects**
 
