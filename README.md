@@ -74,15 +74,15 @@ Workflow      Git/GitHub · Figma · Firebase · Node.js · REST API Integration
 | Project | What it is | Access |
 |---|---|---|
 | **ViewReward** | Learn-to-earn platform on Algorand, with token details pulled from the Pera Public Asset Library and Algorand Indexer. | 🌐 [Live](https://viewreward.app) |
+| **Redeemify** | Redeem physical items with NFTs. | 🌐 [Live](https://redeemify.app) |
 | **Ghetto Market** | Marketplace platform with a multi-step NFT shuffle setup and search-and-preview. | 🌐 [Live](https://market.ghettopigeon.com) |
 | **BigBallz** | Meme coin website, shipped as a PWA. Front-end team lead. | 🌐 [Live](https://ballz.ghettopigeon.com) |
+| **Ghetto Pigeon Website** | Vercel redeployment. | 🌐 [Live](https://ghettopigeon.com) |
+| **Pigeon Puffs** | Web3 game-portal platform. | 🌐 [Live](https://puffs.ghettopigeon.com) |
+| **Ghetto Warzones** | Web3 platform. | 🌐 [Live](https://warzones.ghettopigeon.com) |
 | **Crazy Embryo Club** | Web3 gamified community platform, with custom animations and a smart collection lookup. | 🌐 [Live](https://crazy-embryo-club-alpha.vercel.app) |
 | **ChainBois** | NFT project website. Front-end team lead. | 🔒 Private |
 | **ChainBois Token Page** | Token page. Front-end team lead. | 🔒 Private |
-| **Ghetto Warzones** | Web3 platform. | 🌐 [Live](https://warzones.ghettopigeon.com) |
-| **Ghetto Pigeon Website** | Vercel redeployment. | 🌐 [Live](https://ghettopigeon.com) |
-| **Pigeon Puffs** | Web3 game-portal platform. | 🌐 [Live](https://puffs.ghettopigeon.com) |
-| **Redeemify** | Redeem physical items with NFTs. | 🌐 [Live](https://redeemify.app) |
 
 ### 🎓 Programme Capstone
 
