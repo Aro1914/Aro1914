@@ -17,7 +17,7 @@ when the project calls for it.
 
 ### 🧭 What I Do
 
-4+ years building production web apps with **React.js**, **Next.js**, **JavaScript**,
+5+ years building production web apps with **React.js**, **Next.js**, **JavaScript**,
 and **TypeScript** — with a specialty in integrating blockchain/Web3 functionality
 into everyday user experiences. I've worked across freelance, startup, and remote
 team environments, usually as the developer trusted to take a design and ship it
