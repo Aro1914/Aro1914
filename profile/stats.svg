@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Emmanuel Agbavwe&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  (last year) : 1063, Total PRs: 183, Total Issues: 7, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Commits  (last year) : 1062, Total PRs: 183, Total Issues: 7, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.5057488462398;
+        stroke-dashoffset: 66.51185259598564;
       }
     }
   
